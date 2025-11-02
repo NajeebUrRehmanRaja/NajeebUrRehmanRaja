@@ -8,7 +8,6 @@
 <br>
 
 <p>
-  <img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
   I'm <b>Najeeb Ur Rehman Raja</b>, a passionate and creative <b>Full Stack Developer</b> with a strong desire to build meaningful and user-focused web applications.  
   I enjoy turning ideas into fully functional digital products using the <b>MERN Stack</b> — <b>MongoDB, Express.js, React.js, and Node.js</b>.  
   I’m currently doing an internship in <b>Full Stack Development</b>, where I’m gaining hands-on experience in building responsive interfaces, managing backends, and integrating APIs.  
