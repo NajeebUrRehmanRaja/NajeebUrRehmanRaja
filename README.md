@@ -1,4 +1,4 @@
-# Najeeb-Ur-Rehman-Raja-
+# Najeeb Ur Rehman Raja
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=6EE7B7&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+There!;+I'm+Najeeb+Ur+Rehman+Raja;+Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
