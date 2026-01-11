@@ -20,16 +20,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Talking about Personal Stuff:
 
-- 🎓 I’m a **Computer Science graduated **.  
-- 💻 Currently working as a **Web Development Intern**.  
-- 🌱 Learning **Next.js, MongoDB, and API integration**.  
-- ⚙️ Building **MERN stack projects** including AI-powered apps.  
-- 🎸 I also love **playing classical guitar** and creating my own beats.  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, or JavaScript**. 
+- I’m a **Computer Science graduated **.  
+- Currently working as a **Web Development Intern**.  
+- Learning **Next.js, MongoDB, and API integration**.  
+- Building **MERN stack projects** including AI-powered apps.  
+- I also love **playing classical guitar** and creating my own beats.  
+- Ask me about **React, Node.js, Express, MongoDB, or JavaScript**. 
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/najeeburrehmanraja/" target="blank">
@@ -41,7 +41,7 @@
 
 ---
 
-<h2>👨‍💻 Programming and Markup Languages</h2>
+<h2>Programming and Markup Languages</h2>
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">
@@ -56,7 +56,7 @@
 
 ---
 
-<h2>🧰 Tools & Technologies</h2>
+<h2>Tools & Technologies</h2>
 
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=fff">
@@ -68,14 +68,14 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <p>
   <a href="#"><img alt="Najeeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Najeeb-ur-Rehman&show_icons=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=6EE7B7&icon_color=F8D866" height="192px"/></a>
   <!-- <a href="#"><img alt="Najeeb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Najeeb-ur-Rehman&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=6EE7B7&icon_color=F8D866" height="192px"/></a> -->
 </p>
 
-<h3>🔥 GitHub Streak</h3>
+<h3>GitHub Streak</h3>
 <p>
   <img alt="Najeeb's streak" src="https://streak-stats.demolab.com?user=Najeeb-ur-Rehman&theme=dracula&hide_border=true&background=000000EE"/>
 </p>
